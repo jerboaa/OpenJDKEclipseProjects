@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/sun/java/swing/plaf/windows/|com/sun/jmx/snmp/" kind="src" path="jdk.src.share.classes"/>
+	<classpathentry kind="src" path="jdk.gensrc"/>
+	<classpathentry kind="src" path="jdk.src.solaris.classes"/>
+	<classpathentry kind="src" path="corba.src.share.classes"/>
+	<classpathentry kind="src" path="corba.gensrc"/>
+	<classpathentry kind="src" path="corba.logwrappers"/>
+	<classpathentry kind="src" path="jaxp.src"/>
+	<classpathentry kind="src" path="jaxws.src.share.jaf_classes"/>
+	<classpathentry kind="src" path="jaxws.src.share.jaxws_classes"/>
+	<classpathentry kind="src" path="jdk.share.demo.nio.zipfs"/>
+	<classpathentry kind="src" path="langtools.src.share.classes"/>
+	<classpathentry kind="src" path="langtools.gensrc"/>
+	<classpathentry kind="src" path="nashorn.src"/>
+	<classpathentry kind="output" path="output"/>
+</classpath>
