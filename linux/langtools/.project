@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>openjdk-8-langtools</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>langtools.src.share.classes</name>
+			<type>2</type>
+			<locationURI>OPENJDK_SRC/langtools/src/share/classes</locationURI>
+		</link>
+		<link>
+			<name>langtools.gensrc</name>
+			<type>2</type>
+			<locationURI>JDK_BUILD_DIR/langtools/gensrc</locationURI>
+		</link>
+		<link>
+			<name>output</name>
+			<type>2</type>
+			<locationURI>WORKSPACE_LOC/output/langtools</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
