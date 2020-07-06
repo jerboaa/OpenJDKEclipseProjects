@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="/openjdk-8-jdk"/>
+	<classpathentry kind="src" path="jaxws.src.share.jaf_classes"/>
+	<classpathentry kind="src" path="jaxws.src.share.jaxws_classes"/>
+	<classpathentry kind="output" path="output"/>
+</classpath>
