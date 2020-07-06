@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>OpenJDK 8</name>
+	<name>openjdk-8-jdk</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,21 +16,6 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>corba.gensrc</name>
-			<type>2</type>
-			<locationURI>JDK_BUILD_DIR/corba/gensrc</locationURI>
-		</link>
-		<link>
-			<name>corba.logwrappers</name>
-			<type>2</type>
-			<locationURI>JDK_BUILD_DIR/corba/logwrappers</locationURI>
-		</link>
-		<link>
-			<name>corba.src.share.classes</name>
-			<type>2</type>
-			<locationURI>OPENJDK_SRC/corba/src/share/classes</locationURI>
-		</link>
-		<link>
 			<name>jdk.gensrc</name>
 			<type>2</type>
 			<locationURI>JDK_BUILD_DIR/jdk/gensrc</locationURI>
@@ -44,41 +29,6 @@
 			<name>jdk.src.solaris.classes</name>
 			<type>2</type>
 			<locationURI>OPENJDK_SRC/jdk/src/solaris/classes</locationURI>
-		</link>
-		<link>
-			<name>jaxp.src</name>
-			<type>2</type>
-			<locationURI>OPENJDK_SRC/jaxp/src</locationURI>
-		</link>
-		<link>
-			<name>jaxws.src.share.jaf_classes</name>
-			<type>2</type>
-			<locationURI>OPENJDK_SRC/jaxws/src/share/jaf_classes</locationURI>
-		</link>
-		<link>
-			<name>jaxws.src.share.jaxws_classes</name>
-			<type>2</type>
-			<locationURI>OPENJDK_SRC/jaxws/src/share/jaxws_classes</locationURI>
-		</link>
-		<link>
-			<name>jdk.share.demo.nio.zipfs</name>
-			<type>2</type>
-			<locationURI>OPENJDK_SRC/jdk/src/share/demo/nio/zipfs/src</locationURI>
-		</link>
-		<link>
-			<name>langtools.src.share.classes</name>
-			<type>2</type>
-			<locationURI>OPENJDK_SRC/langtools/src/share/classes</locationURI>
-		</link>
-		<link>
-			<name>langtools.gensrc</name>
-			<type>2</type>
-			<locationURI>JDK_BUILD_DIR/langtools/gensrc</locationURI>
-		</link>
-		<link>
-			<name>nashorn.src</name>
-			<type>2</type>
-			<locationURI>OPENJDK_SRC/nashorn/src</locationURI>
 		</link>
 		<link>
 			<name>output</name>
