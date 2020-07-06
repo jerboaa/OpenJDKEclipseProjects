@@ -2,8 +2,10 @@
 <classpath>
 	<classpathentry combineaccessrules="false" kind="src" path="/openjdk-8-jaxp"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/openjdk-8-langtools"/>
-	<classpathentry excluding="com/sun/java/swing/plaf/windows/|com/sun/jmx/snmp/|com/oracle/net/" kind="src" path="jdk.src.share.classes"/>
+	<classpathentry excluding="com/sun/java/swing/plaf/windows/|com/sun/jmx/snmp/|com/oracle/net/|sun/management/snmp/|sun/dc/" kind="src" path="jdk.src.share.classes"/>
 	<classpathentry kind="src" path="jdk.gensrc"/>
-	<classpathentry excluding="sun/nio/fs/SolarisAclFileAttributeView.java|sun/nio/fs/SolarisFileStore.java|sun/nio/fs/SolarisUserDefinedFileAttributeView.java" kind="src" path="jdk.src.solaris.classes"/>
+	<classpathentry excluding="sun/nio/fs/SolarisAclFileAttributeView.java|sun/nio/fs/SolarisFileStore.java|sun/nio/fs/SolarisUserDefinedFileAttributeView.java|sun/nio/fs/SolarisFileSystem.java|sun/nio/fs/SolarisFileSystemProvider.java|sun/awt/X11/generator/WrapperGenerator.java" kind="src" path="jdk.src.solaris.classes"/>
+	<classpathentry kind="lib" path="/openjdk-8-corba/output"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="output"/>
 </classpath>
