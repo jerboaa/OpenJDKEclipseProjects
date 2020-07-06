@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>openjdk-8-corba</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>corba.gensrc</name>
+			<type>2</type>
+			<locationURI>JDK_BUILD_DIR/corba/gensrc</locationURI>
+		</link>
+		<link>
+			<name>corba.logwrappers</name>
+			<type>2</type>
+			<locationURI>JDK_BUILD_DIR/corba/logwrappers</locationURI>
+		</link>
+		<link>
+			<name>corba.src.share.classes</name>
+			<type>2</type>
+			<locationURI>OPENJDK_SRC/corba/src/share/classes</locationURI>
+		</link>
+		<link>
+			<name>output</name>
+			<type>2</type>
+			<locationURI>WORKSPACE_LOC/output/corba</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

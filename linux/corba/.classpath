@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="corba.src.share.classes"/>
+	<classpathentry kind="src" path="corba.gensrc"/>
+	<classpathentry kind="src" path="corba.logwrappers"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/openjdk-8-langtools"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/openjdk-8-jdk"/>
+	<classpathentry kind="output" path="output"/>
+</classpath>
